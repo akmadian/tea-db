@@ -1,38 +1,16 @@
 <template>
-<div id="sidemenu">
-    <hr>
-    <aside class="menu">
-      <p class="menu-label">
-        Add New
-      </p>
-      <ul class="menu-list">
-        <li><a>Tea</a></li>
-      </ul>
-      <p class="menu-label">
-        All Teas
-      </p>
-      <ul class="menu-list">
-        <li><a>Team Settings</a></li>
-        <li>
-          <a class="is-active">Manage Your Team</a>
-          <ul>
-            <li><a>Members</a></li>
-            <li><a>Plugins</a></li>
-            <li><a>Add a member</a></li>
-          </ul>
-        </li>
-        <li><a>Invitations</a></li>
-        <li><a>Cloud Storage Environment Settings</a></li>
-        <li><a>Authentication</a></li>
-      </ul>
-      <p class="menu-label">
-        My Account
-      </p>
-      <ul class="menu-list">
-        <li><a>Profile</a></li>
-      </ul>
-    </aside>
-</div>
+  <div id="sidemenu">
+    <b-menu>
+      <b-menu-list label="">
+        <b-menu-item label="My Stash"></b-menu-item>
+        <b-menu-item label="Add New Tea"></b-menu-item>
+      </b-menu-list>
+      <b-menu-list label="Account">
+        <b-menu-item label="My Account"></b-menu-item>
+        <b-menu-item label="Log Out"></b-menu-item>
+      </b-menu-list>
+    </b-menu>
+  </div>
 </template>
 <script>
 export default {
@@ -42,5 +20,7 @@ export default {
 <style lang="scss" scoped>
     #sidemenu {
         margin-left: 1rem;
+        margin-top: 2rem;
+        width: 10rem;
     }
 </style>

@@ -14,6 +14,7 @@ export default {
                 case 'black': return "#B53737";
                 case 'yellow': return "#FADA5E";
                 case 'oolong': return "#FFAA1D";
+                case 'green': return "#54B948";
                 default:
                     break;
             }

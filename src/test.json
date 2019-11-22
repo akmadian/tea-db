@@ -4,20 +4,188 @@
         "rating": 9,
         "type": "white",
         "harvest": "Spring 2019",
-        "id": 1
+        "id": 1,
+        "ppg": 70,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
     },
     {
         "name": "test white 2",
         "rating": 6,
-        "type": "white",
+        "type": "oolong",
         "harvest": "Spring 2019",
-        "id": 2
+        "id": 2,
+        "ppg": 150,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
     },
     {
         "name": "test black",
         "rating": 9,
         "type": "black",
         "harvest": "Spring 2019",
-        "id": 3
+        "id": 3,
+        "ppg": 30,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "green",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "yellow",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "white",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "black",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "yellow",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
+    },
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "green",
+        "harvest": "Spring 2019",
+        "id": 1,
+        "ppg": 17,
+        "notes": "ajshbfjlhakshfeawjhflawejhgalkwjerhgalwkejrhgalekjfhdsalkjhfaslke",
+        "brewingparams": {
+            "gongfu": {
+                "temp": 200,
+                "tempUnitisFarenheit": true,
+                "numinfusions": 12,
+                "infusiontimes": {
+                    "first": 20,
+                    "next": 5
+                },
+                "gper100ml": 5
+            }
+        }
     }
 ]
