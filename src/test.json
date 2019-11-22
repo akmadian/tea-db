@@ -1,0 +1,23 @@
+[
+    {
+        "name": "test white",
+        "rating": 9,
+        "type": "white",
+        "harvest": "Spring 2019",
+        "id": 1
+    },
+    {
+        "name": "test white 2",
+        "rating": 6,
+        "type": "white",
+        "harvest": "Spring 2019",
+        "id": 2
+    },
+    {
+        "name": "test black",
+        "rating": 9,
+        "type": "black",
+        "harvest": "Spring 2019",
+        "id": 3
+    }
+]
